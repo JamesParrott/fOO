@@ -1,3 +1,3 @@
 
 def get_message() -> str:
-    return "Hello from FOO.bar"
+    return "Hello from foo.bar"
